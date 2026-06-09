@@ -17,7 +17,7 @@ I am a versatile developer and easily adapt to different hats (Web Developer �
 - 🎨 &nbsp; I also enjoy creating clean and simple UI designs with **Figma** 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ben-hmida-53b485247/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/folders/1W_wV73lVLicjB9v2GCK0mvNW-pIiEKy4)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16AJuq4s1iafKEHVmBUWk7aiC4XITZXpy/view)
 - 📚 &nbsp; When I am free, I like to learn new technologies and explore AI-related topics
 
 <br>
