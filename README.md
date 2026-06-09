@@ -52,21 +52,12 @@ I am a versatile developer and easily adapt to different hats (Web Developer �
 
 <br>
 
-
-### 📊 Github Stats
-<a href='https://github.com/Aziz-BenHmida/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Aziz-BenHmida/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Aziz-BenHmida/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
 ### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+
+<a href="https://github.com/Aziz-BenHmida/Intelligent-medical-chatbot" target="_blank">🌊 Intelligent medical chatbot</a>
+<a href="https://github.com/Aziz-BenHmida/application-e-commerce" target="_blank">🎨 Clothing e-commerce website</a>  
+<a href="https://github.com/Aziz-BenHmida/competency-matrix-project" target="_blank">📊 Competency matrix project</a>  
+<a href="https://github.com/Aziz-BenHmida/gestion-club-sportif" target="_blank">🧩 Sports club management application</a>  
+<a href="https://github.com/Aziz-BenHmida/Blood-donation-application-for-android" target="_blank">🔐 Blood donation application</a>  
+<a href="https://github.com/Aziz-BenHmida/unity_zombie_survival_game" target="_blank">🛡️ zombie survival game</a>  
+
