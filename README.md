@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Mohamed Aziz Ben Hmida!
 <a href='https://www.linkedin.com/in/mohamed-aziz-ben-hmida-53b485247/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
+<br/>
 
 I am a versatile developer and easily adapt to different hats (Web Developer 🌐, Machine Learning Developer 🤖, or AI Explorer 📊) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build smart, useful, and innovative solutions 🛠️. 
 <br/>
