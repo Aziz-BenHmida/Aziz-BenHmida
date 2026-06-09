@@ -55,9 +55,14 @@ I am a versatile developer and easily adapt to different hats (Web Developer �
 ### 🛠️ My Projects
 
 <a href="https://github.com/Aziz-BenHmida/Intelligent-medical-chatbot" target="_blank">🌊 Intelligent medical chatbot</a>
+<br>
 <a href="https://github.com/Aziz-BenHmida/application-e-commerce" target="_blank">🎨 Clothing e-commerce website</a>  
+<br>
 <a href="https://github.com/Aziz-BenHmida/competency-matrix-project" target="_blank">📊 Competency matrix project</a>  
+<br>
 <a href="https://github.com/Aziz-BenHmida/gestion-club-sportif" target="_blank">🧩 Sports club management application</a>  
+<br>
 <a href="https://github.com/Aziz-BenHmida/Blood-donation-application-for-android" target="_blank">🔐 Blood donation application</a>  
+<br>
 <a href="https://github.com/Aziz-BenHmida/unity_zombie_survival_game" target="_blank">🛡️ zombie survival game</a>  
 
